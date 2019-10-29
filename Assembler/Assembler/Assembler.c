@@ -4,7 +4,7 @@
 #define MAX 100
 
 //파일이름 지정은 여기서!!
-char* fileName = "Assembler2.txt";
+char* fileName = "input2.txt";
 
 typedef struct string
 {
